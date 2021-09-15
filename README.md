@@ -11,3 +11,21 @@ The possibility to use widespread and simple chest X-ray (CXR) imaging for early
 </p>
 
 ![scatter](res/tsne.webp)
+
+
+## Citing
+
+For citing our work, please use the following bibtex entry:
+
+```bibtex
+@article{tartaglione2020unveiling,
+  title={Unveiling covid-19 from chest x-ray with deep learning: a hurdles race with small data},
+  author={Tartaglione, Enzo and Barbano, Carlo Alberto and Berzovini, Claudio and Calandri, Marco and Grangetto, Marco},
+  journal={International Journal of Environmental Research and Public Health},
+  volume={17},
+  number={18},
+  pages={6933},
+  year={2020},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+```
